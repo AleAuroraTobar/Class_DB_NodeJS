@@ -12,7 +12,7 @@ const pool = new Pool({ // Creating a new connection pool with the necessary dat
 
     host: "localhost",  // The database server is hosted on the local machine.
     user: "postgres",  // The username to connect to PostgreSQL (default is 'postgres' unless another user is specified).
-    password: "349482",  // The password for the PostgreSQL user (change this for security purposes).
+    password: "333333",  // The password for the PostgreSQL user (change this for security purposes).
     database: "plan_de_viajes",  // The name of the database where queries will be executed.
     allowExitOnIdle: true,  // Automatically closes idle connections when no queries are pending.
 
